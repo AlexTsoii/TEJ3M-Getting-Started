@@ -1,0 +1,4 @@
+My project was a safe, which would be opened by a RFID card and 2 servos, along with 2 LEDs and a passive buzzer. 
+This project was relatively easy, as I was able to manage my time well, and spread the workload across the span of a few weeks.
+The hardest part of the project was probably coding the RFID ID, which took me a while to figure out, as I did not know how to get the UID code from the serial monitor.
+My favourite part of the project 
